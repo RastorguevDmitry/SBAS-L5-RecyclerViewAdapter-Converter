@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_from">ИЗ</string>
+    <string name="convert_to">В</string>
+    <string name="edit_convertor">введите величину</string>
+
+    <string-array name="list_convert">
+        <item>Давление</item>
+        <item>Мощность</item>
+        <item>Скорость</item>
+        <item>Длины</item>
+        <item>Температура</item>
+    </string-array>
+
+</resources>
