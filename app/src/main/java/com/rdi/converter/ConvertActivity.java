@@ -57,7 +57,7 @@ public class ConvertActivity extends AppCompatActivity {
         nameResultConvert = findViewById(R.id.name_result_convert);
         editTextStartConvert = findViewById(R.id.editText_start_convert);
         editTextResultConvert = findViewById(R.id.editText_result_convert);
-        
+
         listViewStartConvert = findViewById(R.id.list_start_convert);
         listViewResultConvert = findViewById(R.id.list_result_convert);
     }
@@ -135,6 +135,7 @@ public class ConvertActivity extends AppCompatActivity {
                 updateViewAfterChooseListElement();
             }
         });
+        
     }
 
     private void updateViewAfterChooseListElement() {
